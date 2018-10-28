@@ -51,7 +51,7 @@ Resources:​
 https://earthsky.org/earth/what-causes-the-aurora-... (Data Research : Aurora)
 http://www.google.com/sky/ (Galactic Images and Phenomenons)
 https://www.spaceweatherlive.com/en/help/the-solar... (Data  Research: Solar Wind)
-http://www.thesuntoday.org/solar-facts/flares-and-... (Data Research: Solar Wind)
+http://www.thesuntoday.org/solar-facts/flares-and-... (Data Research: Flares)
 https://data.nasa.gov/ (Data Analysis Model for Prediction)
 https://bigml.com/api/predictions (Predictions by ML)
 https://dialogflow.com (AI Chat Bot Development and Training)
